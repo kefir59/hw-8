@@ -1,0 +1,56 @@
+h1:hover {
+  color: rgb(63, 86, 140);
+}
+.mat:first-child{
+   color: red; 
+}
+.ist{
+    color: blue;
+}
+.angl{
+color: yellow;
+}
+.tex:last-child{
+color: green;
+}
+.ykr:nth-child(2){
+    background-color: grey;
+}
+.fizkylt{
+color: pink;
+}
+.inf{
+color: orange;
+}
+.fizika:nth-of-type(1){
+color:purple ;
+background-color: yellow;
+}
+.zax{
+    color: rgb(36, 109, 33);
+}
+.god{
+color: rgb(0, 136, 255);
+}
+.geo{
+color: rgb(143, 143, 1);
+}
+.biol{
+color: rgb(169, 91, 91);
+}
+.zar{
+color: rgb(134, 167, 196);
+}
+.him{
+color: aquamarine;
+}
+.ykrlit{
+color: brown;
+}
+button:active{
+    font-weight: bold;
+    color: red;
+}
+a:visited{
+color: blueviolet;
+}
